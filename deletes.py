@@ -10,7 +10,6 @@ from config import config
 db_manager = DatabaseManager(config.USER, config.PASSWD, config.HOST, config.PORT, config.DATABASE)
 engine = create_engine(db_manager.url)
 
-# Cria a sessão
 Session = sessionmaker(bind=engine)
 session = Session()
 
