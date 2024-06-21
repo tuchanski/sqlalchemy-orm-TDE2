@@ -147,6 +147,7 @@ try:
 
 except Exception as e:
      print("Ocorreu um erro durante a atualização:", str(e))
+     session.rollback()
 
 finally:
      session.close()
