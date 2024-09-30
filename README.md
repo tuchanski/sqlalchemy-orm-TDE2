@@ -55,3 +55,7 @@ pip install pymysql
 2. deletes.py
 3. updates.py
 4. queries.py
+
+## Autor
+
+- [Guilherme Tuchanski Rocha | GitHub](https://github.com/tuchanski)
