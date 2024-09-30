@@ -1,5 +1,5 @@
 
-# Projeto SQLAlchemy ORM TDE2
+# SQLAlchemy ORM 🛠️
 
 ## Objetivo
 
